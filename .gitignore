@@ -1,0 +1,13 @@
+# 3rd-Party Libraries in Web Applications
+lib/
+libs/
+
+#
+# The following entries come from https://github.com/github/gitignore
+# 
+# DO NOT modify the lists manually. 
+# Any changes should be applied before this section.
+#
+
+# Maven.gitignore #
+target/
